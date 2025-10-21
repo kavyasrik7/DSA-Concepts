@@ -1,7 +1,7 @@
 """
 Title: Binary Search
 Contributor: https://github.com/Him-an-shi
-Issue: #132
+Issue:
 
 Description:
 Binary Search is an efficient searching technique used only on sorted arrays or lists.

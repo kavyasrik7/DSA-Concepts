@@ -1,7 +1,7 @@
 """
 Title: Linear Search
 Contributor: https://github.com/Him-an-shi
-Issue: #132
+Issue: 
 
 Description:
 1. Linear Search is also known as Sequential Search.
