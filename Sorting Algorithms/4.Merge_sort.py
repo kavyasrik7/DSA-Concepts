@@ -1,7 +1,7 @@
 """
 Title: Merge Sort
 Contributor: https://github.com/Him-an-shi
-Issue: #132
+
 
 Description:
 Merge Sort is a Divide and Conquer-based sorting algorithm. It works by recursively dividing 

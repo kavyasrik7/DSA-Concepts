@@ -1,7 +1,7 @@
 """
 Title: Bubble Sort
 Contributor: https://github.com/Him-an-shi
-Issue: #132
+
 
 Description:
 Bubble Sort is the simplest comparison-based sorting algorithm. It repeatedly compares 

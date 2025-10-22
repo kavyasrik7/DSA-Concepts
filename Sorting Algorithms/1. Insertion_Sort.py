@@ -1,7 +1,7 @@
 """
 Title: Insertion Sort
 Contributor: https://github.com/Him-an-shi
-Issue: #132
+
 
 Description:
 Insertion Sort is a simple and intuitive comparison-based sorting algorithm. It builds the final

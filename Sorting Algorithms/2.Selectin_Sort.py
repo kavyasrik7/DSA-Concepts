@@ -1,7 +1,7 @@
 """
 Title: Selection Sort
 Contributor: https://github.com/Him-an-shi
-Issue: #132
+
 
 Description:
 Selection Sort is a simple comparison-based sorting algorithm. It works by repeatedly selecting 
